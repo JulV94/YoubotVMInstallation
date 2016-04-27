@@ -12,7 +12,7 @@ Here is a video explaining how to do so :
 
 Or here briefly if you are familiar with Vagrant and Virtualbox, type :  
 `cd <yourDirectory>`  
-`vagrant init vagrant init shadowrobot/ros-indigo-desktop-xfce-trusty64.box`  
+`vagrant init shadowrobot/ros-indigo-desktop-xfce-trusty64.box`  
 `vagrant up`  
 
 Note : Log in using the ROS user with the password ros  
