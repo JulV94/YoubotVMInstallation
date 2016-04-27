@@ -26,6 +26,7 @@ Stop your machine and go in the configuration of you virtual machine in virtualb
 `sudo apt-get update && sudo apt-get upgrade`
 * launch the script from this repo  
 `git clone https://github.com/JulV94/YoubotVMInstallation.git`  
+`cd YoubotVMInstallation`  
 `chmod +x youbot_setup.sh`  
 `./youbot_setup.sh`  
 
