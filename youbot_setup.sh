@@ -1,6 +1,9 @@
 #!/bin/bash
 
 # initializes the youbot api and create the catkin workspace in a ROS Indigo environement
+# Author : Julien Van Loo
+# Date : 27/04/2016
+# Version 1.0
 
 # Update computer
 echo -e "\e[100m[Installing needed dependencies...]"
