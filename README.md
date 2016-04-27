@@ -15,7 +15,10 @@ Or here briefly if you are familiar with Vagrant and Virtualbox, type :
 `vagrant init vagrant init shadowrobot/ros-indigo-desktop-xfce-trusty64.box`  
 `vagrant up`  
 
-Note : Log in using the ROS user with the password ros
+Note : Log in using the ROS user with the password ros  
+
+Stop your machine and go in the configuration of you virtual machine in virtualbox to put 2048 Mo in RAM  
+[logo]: https://github.com/JulV94/YoubotVMInstallation/blob/master/RAMScreenshot.png "virtualbox config img"
 
 ## When you're in your virtual machine
 * Update your system  
