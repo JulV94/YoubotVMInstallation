@@ -5,8 +5,10 @@ Describes how to install the Youbot API in a Vagrant Virtualbox virtual machine 
 * Install Virtualbox (https://www.virtualbox.org/wiki/Downloads)
 * Install Vagrant (https://www.vagrantup.com/downloads.html)
 
-## Creation of the mirtual machine
-Here is a video explaining how to do so :   [![http://www.youtube.com/watch?v=7r9PNTvIe3s](http://img.youtube.com/vi/7r9PNTvIe3s/0.jpg)](http://www.youtube.com/watch?v=7r9PNTvIe3s)  
+## Creation of the virtual machine
+Here is a video explaining how to do so :  
+
+[![http://www.youtube.com/watch?v=7r9PNTvIe3s](http://img.youtube.com/vi/7r9PNTvIe3s/0.jpg)](http://www.youtube.com/watch?v=7r9PNTvIe3s)  
 
 Or here briefly if you are familiar with Vagrant and Virtualbox, type :  
 `cd <yourDirectory>`  
