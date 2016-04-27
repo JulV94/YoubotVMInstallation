@@ -1,2 +1,25 @@
 # YoubotVMInstallation
 Describes how to install the Youbot API in a Vagrant Virtualbox virtual machine using Ubuntu 14.04 and ROS Indigo.
+
+## Prerequisite
+* Install Virtualbox [https://www.virtualbox.org/wiki/Downloads]
+* Install Vagrant [https://www.vagrantup.com/downloads.html]
+
+## Creation of the mirtual machine
+Here is a video explaining how to do so : [https://www.youtube.com/watch?v=7r9PNTvIe3s]
+Or here briefly if you are familiar with Vagrant and Virtualbox, type :
+`cd <yourDirectory>`
+`vagrant init vagrant init shadowrobot/ros-indigo-desktop-xfce-trusty64.box`
+`vagrant up`
+
+Note : Log in using the ROS user with the password ros
+
+## When you're in your virtual machine
+* Update your system
+`sudo apt-get update && sudo apt-get upgrade`
+* launch the script from this repo
+`git clone https://github.com/JulV94/YoubotVMInstallation.git`
+`chmod +x youbot_setup.sh`
+`./youbot_setup.sh`
+
+Note : The script will ask for the ROS user password maybe several times so stay there to give it
