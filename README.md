@@ -31,3 +31,7 @@ Stop your machine and go in the configuration of you virtual machine in virtualb
 `./youbot_setup.sh`  
 
 Note : The script will ask for the ROS user password maybe several times so stay there to give it
+
+## Install an IDE to code in C++ with ROS and Youbot
+Here is a link to configure Codeblocks or QtCreator  
+http://www.ciencia-explicada.com/2014/12/ros-how-to-develop-catkin-packages-from-an-ide.html
